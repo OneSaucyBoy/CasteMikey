@@ -784,7 +784,34 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      spelunky tilemap_0: -750972235672419412
+      spelunky tilemap_1: -529705049440199887
+      spelunky tilemap_10: -5873618941091879043
+      spelunky tilemap_11: -7278923306344922011
+      spelunky tilemap_12: 8203061529715904231
+      spelunky tilemap_13: -7600590268550168909
+      spelunky tilemap_14: 941867662390818448
+      spelunky tilemap_15: 9070080218268486808
+      spelunky tilemap_16: 4842283132469872806
+      spelunky tilemap_17: 5326700082979947430
+      spelunky tilemap_18: -3907047963768766055
+      spelunky tilemap_19: 4044452397301515885
+      spelunky tilemap_2: 7627621933967958262
+      spelunky tilemap_20: -860236903774126080
+      spelunky tilemap_21: 7859900019712493961
+      spelunky tilemap_22: 3672035755928001412
+      spelunky tilemap_23: -6344964534183476454
+      spelunky tilemap_24: -9021671114777302892
+      spelunky tilemap_25: -1648020011541471658
+      spelunky tilemap_26: 7619411910256719618
+      spelunky tilemap_3: 3497424629862725299
+      spelunky tilemap_4: -6886793771988374469
+      spelunky tilemap_5: 2130505662779010532
+      spelunky tilemap_6: -1683975314789304091
+      spelunky tilemap_7: 8947908524439911266
+      spelunky tilemap_8: 5616676595037824895
+      spelunky tilemap_9: 2496342219732459556
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
