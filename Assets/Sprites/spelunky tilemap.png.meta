@@ -1,0 +1,792 @@
+fileFormatVersion: 2
+guid: 1625e93e072b1b14eb9ab46cfe2a8700
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -750972235672419412
+    second: spelunky tilemap_0
+  - first:
+      213: -529705049440199887
+    second: spelunky tilemap_1
+  - first:
+      213: 7627621933967958262
+    second: spelunky tilemap_2
+  - first:
+      213: 3497424629862725299
+    second: spelunky tilemap_3
+  - first:
+      213: -6886793771988374469
+    second: spelunky tilemap_4
+  - first:
+      213: 2130505662779010532
+    second: spelunky tilemap_5
+  - first:
+      213: -1683975314789304091
+    second: spelunky tilemap_6
+  - first:
+      213: 8947908524439911266
+    second: spelunky tilemap_7
+  - first:
+      213: 5616676595037824895
+    second: spelunky tilemap_8
+  - first:
+      213: 2496342219732459556
+    second: spelunky tilemap_9
+  - first:
+      213: -5873618941091879043
+    second: spelunky tilemap_10
+  - first:
+      213: -7278923306344922011
+    second: spelunky tilemap_11
+  - first:
+      213: 8203061529715904231
+    second: spelunky tilemap_12
+  - first:
+      213: -7600590268550168909
+    second: spelunky tilemap_13
+  - first:
+      213: 941867662390818448
+    second: spelunky tilemap_14
+  - first:
+      213: 9070080218268486808
+    second: spelunky tilemap_15
+  - first:
+      213: 4842283132469872806
+    second: spelunky tilemap_16
+  - first:
+      213: 5326700082979947430
+    second: spelunky tilemap_17
+  - first:
+      213: -3907047963768766055
+    second: spelunky tilemap_18
+  - first:
+      213: 4044452397301515885
+    second: spelunky tilemap_19
+  - first:
+      213: -860236903774126080
+    second: spelunky tilemap_20
+  - first:
+      213: 7859900019712493961
+    second: spelunky tilemap_21
+  - first:
+      213: 3672035755928001412
+    second: spelunky tilemap_22
+  - first:
+      213: -6344964534183476454
+    second: spelunky tilemap_23
+  - first:
+      213: -9021671114777302892
+    second: spelunky tilemap_24
+  - first:
+      213: -1648020011541471658
+    second: spelunky tilemap_25
+  - first:
+      213: 7619411910256719618
+    second: spelunky tilemap_26
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spelunky tilemap_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 538
+        width: 642
+        height: 998
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca380900bb20495f0800000000000000
+      internalID: -750972235672419412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky tilemap_1
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 1218
+        width: 130
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13bd264601c16a8f0800000000000000
+      internalID: -529705049440199887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky tilemap_2
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 1486
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f0632f6cb1cad960800000000000000
+      internalID: 7627621933967958262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky tilemap_3
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 1412
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b67ba3bb29598030800000000000000
+      internalID: 3497424629862725299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky tilemap_4
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 1407
+        width: 133
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3ca24b5d813d60a0800000000000000
+      internalID: -6886793771988374469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky tilemap_5
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 1149
+        width: 515
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eda6e5cc93119d10800000000000000
+      internalID: 2130505662779010532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky tilemap_6
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 1171
+        width: 125
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e8f47f8f5151a8e0800000000000000
+      internalID: -1683975314789304091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky tilemap_7
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1029
+        width: 134
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26b3ee9156b5d2c70800000000000000
+      internalID: 8947908524439911266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky tilemap_8
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 1022
+        width: 126
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f77ea71da9172fd40800000000000000
+      internalID: 5616676595037824895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky tilemap_9
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 1104
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 420a6fcc50ac4a220800000000000000
+      internalID: 2496342219732459556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky tilemap_10
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 1032
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d77663e51b6bc7ea0800000000000000
+      internalID: -5873618941091879043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky tilemap_11
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 898
+        width: 39
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 564cff971d11cfa90800000000000000
+      internalID: -7278923306344922011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky tilemap_12
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 899
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ee8365eff027d170800000000000000
+      internalID: 8203061529715904231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky tilemap_13
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 898
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3beb6cf9b67458690800000000000000
+      internalID: -7600590268550168909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky tilemap_14
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 767
+        width: 41
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0967b3216af221d00800000000000000
+      internalID: 941867662390818448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky tilemap_15
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 767
+        width: 259
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89cc03637e56fdd70800000000000000
+      internalID: 9070080218268486808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky tilemap_16
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 767
+        width: 38
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a88bbc7ade333340800000000000000
+      internalID: 4842283132469872806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky tilemap_17
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 767
+        width: 46
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a3401fd08d3ce940800000000000000
+      internalID: 5326700082979947430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky tilemap_18
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 512
+        width: 246
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 991462fc39067c9c0800000000000000
+      internalID: -3907047963768766055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky tilemap_19
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 681
+        width: 386
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d664224e608c02830800000000000000
+      internalID: 4044452397301515885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky tilemap_20
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 561
+        width: 158
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0008cdff713df04f0800000000000000
+      internalID: -860236903774126080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky tilemap_21
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 324
+        width: 299
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9898c05ac69f31d60800000000000000
+      internalID: 7859900019712493961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky tilemap_22
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 615
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48b1f929011b5f230800000000000000
+      internalID: 3672035755928001412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky tilemap_23
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 536
+        width: 386
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a13ca8b8f5822f7a0800000000000000
+      internalID: -6344964534183476454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky tilemap_24
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 412
+        width: 504
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 498eb438be59cc280800000000000000
+      internalID: -9021671114777302892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky tilemap_25
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 4
+        width: 342
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65ed555f78e0129e0800000000000000
+      internalID: -1648020011541471658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunky tilemap_26
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 161
+        width: 514
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2077b3453c69db960800000000000000
+      internalID: 7619411910256719618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
