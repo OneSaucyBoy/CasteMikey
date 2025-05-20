@@ -16,6 +16,7 @@ public class Player_Movement : MonoBehaviour
     public float raycastDistance = 0.1f;
     public LayerMask floorLayer;
     private bool onFloor;
+    public bool canFlip = true;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -57,6 +58,11 @@ public class Player_Movement : MonoBehaviour
         {
             movement.x = 0f;
         }
+        
+        if (canFlip)
+        {
+            HandleFlip();
+        }
 
     }
 
@@ -71,4 +77,26 @@ public class Player_Movement : MonoBehaviour
         Gizmos.color = Color.red;
         Gizmos.DrawLine(transform.position, transform.position + Vector3.down * raycastDistance);
     }
+
+    void HandleFlip()
+    {
+        float horizontal = Input.GetAxisRaw("Horizontal");
+
+        if (horizontal > 0 && transform.localScale.x < 0)
+        {
+            Flip();
+        }
+        else if (horizontal < 0 && transform.localScale.x > 0)
+        {
+            Flip();
+        }
+    }
+
+    void Flip()
+    {
+        Vector3 scale = transform.localScale;
+        scale.x *= -1;
+        transform.localScale = scale;
+    }
 }
+
